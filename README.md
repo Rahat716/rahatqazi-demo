@@ -1,2 +1,2 @@
 # rahatqazi-demo
-Author : Rahat Munawar
+Author : Rahat Qazi
